@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CountingLab</string>
+    <string name="_0">0</string>
+    <string name="add_1">add 1</string>
+    <string name="click_to_add_2">click to add 2</string>
+    <string name="Add_2">Add 2</string>
 </resources>
